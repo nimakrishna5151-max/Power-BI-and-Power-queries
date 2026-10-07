@@ -1,4 +1,6 @@
 ** Data Transformation **
+
+
 Row Restriction: Restricted the "List of Orders" table to the first 500 rows for streamlined processing.  
 Data Type Optimization: Converted "Order Date" to Date data type, and set "Amount" and "Target" columns to Fixed Decimal Number.  
 Text Formatting: Standardized the "CustomerName" column into proper case ("Capitalize Each Word") for clean visual presentation.  
