@@ -1,6 +1,8 @@
 **Data Transformation**
 
 Using Get data function in power bi  uploaded 3 data set one by one 
+
+
 1.Row Restriction: Restricted the "List of Orders" table to the first 500 rows for streamlined processing.  
 Data Type Optimization: Converted "Order Date" to Date data type, and set "Amount" and "Target" columns to Fixed Decimal Number.  
 Text Formatting: Standardized the "CustomerName" column into proper case ("Capitalize Each Word") for clean visual presentation.  
